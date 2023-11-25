@@ -1,1 +1,2 @@
-# Golang-Projects-for-Beginners
+## Golang is an extremely popular programming language. Almost, 8.2M developers all over the globe use Golang for their projects which is more than Java now. So, in order to master Go language, it is recommended to start by creating some projects.
+## In this article, we are going to cover Go Project Ideas for beginners and experts with valid source codes.
